@@ -1,0 +1,19 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Basic flashcard generator",
+  "main": "basicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lofisoul/flashcard-generator.git"
+  },
+  "author": "Jason Nolfi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lofisoul/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/lofisoul/flashcard-generator#readme"
+}

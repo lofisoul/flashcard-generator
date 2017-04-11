@@ -1,0 +1,2 @@
+{"question":"... was the first president of the United States.","cloze":"George Washington"}
+{"question":"... was the first man to walk on the moon.","cloze":"Neil Armstrong"}
